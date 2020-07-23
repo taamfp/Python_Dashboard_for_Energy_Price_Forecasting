@@ -6,5 +6,6 @@ This project was done as a continuation of an initial submission for electricity
 
 The data treatment and model setup can be found in [this notebook](https://www.kaggle.com/ta97fp/electricity-price-forecasting-model-with-lightgbm).
 
-
-![](Demo/Project-Demo.gif)
+<p align="center">
+  ![](Demo/Project-Demo.gif)
+ </p>
