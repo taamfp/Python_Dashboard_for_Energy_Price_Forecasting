@@ -1,6 +1,4 @@
-<p align="center">
-  # Dashboard Application with ML model deployment for electricity price prediction.
-</p>
+# Dashboard Application with ML model deployment for electricity price prediction.
 
 This project was done as a sequel of an initial submission for electricity price forecasting using [Kaggle](https://www.kaggle.com/nicholasjhana/energy-consumption-generation-prices-and-weather) datasets.
 
