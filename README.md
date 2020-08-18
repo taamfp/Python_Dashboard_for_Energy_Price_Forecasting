@@ -1,6 +1,4 @@
-# Python_Dashboard_for_Electricity_Price_Forecasting
-
-## Dashboard Application with ML model deployment for electricity price prediction.
+# Dashboard Application with ML model deployment for electricity price prediction.
 
 This project was done as a sequel of an initial submission for electricity price forecasting using [Kaggle](https://www.kaggle.com/nicholasjhana/energy-consumption-generation-prices-and-weather) datasets.
 
